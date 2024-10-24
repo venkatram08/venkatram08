@@ -1,16 +1,12 @@
-# Hi there 👋 I'm Venkat Ram Velinedi
-
-Welcome to my GitHub! I’m a data enthusiast and aspiring software engineer with a passion for analytics, business intelligence, and app development. Currently pursuing my **Master of Science in Engineering Data Science** at the **University of Houston**, I am set to graduate in May 2025.
+# Hi there 👋 
+I'm Ram, a data enthusiast with a passion for analytics, business intelligence. Currently pursuing my **Master of Science in Engineering Data Science** at the **University of Houston**, I am set to graduate in May 2025.
 
 ---
 
 ### 🚀 About Me:
 - 🧑‍💻 I have experience in **Python, SQL, Power BI, Tableau, and Azure**.
-- 🎓 **B.Tech in Computer Science & Engineering** from K L University.
 - 📈 Skilled in **Data Visualization, ETL processes, and Cloud Technologies**.
-- 💼 Previously worked as a **Junior Data Analyst** at LTI-Mindtree and an **Azure Cloud Intern** at AICTE.
 - 📊 Created an academic project on **Flight Price Analysis Dashboard using Tableau**.
-- 🏗️ Currently, I’m working on a **Maps App** using Flutter and Mapbox and a **Car Comparison Website** to enhance user experience in car selection.
   
 ---
 
@@ -23,7 +19,7 @@ Welcome to my GitHub! I’m a data enthusiast and aspiring software engineer wit
 ### 🛠️ My Technical Stack:
 - **Programming Languages**: Python, SQL, R
 - **Data Visualization Tools**: Power BI, Tableau, MS365 Office
-- **Cloud Platforms**: Azure, Spark, Hive
+- **Cloud Platforms**: Azure
 - **Web Development**: Streamlit, Flutter
 - **Other Tools**: SAS, MS Excel (VLOOKUPs, Pivot Tables)
 
@@ -37,7 +33,6 @@ Welcome to my GitHub! I’m a data enthusiast and aspiring software engineer wit
 ---
 
 ### 📫 How to Reach Me:
-- **Email**: venkatramvelinedi@example.com
-- **LinkedIn**: [Venkat Ram Velinedi](https://www.linkedin.com/in/venkatramvelinedi)
+- **Email**: venkatramvelinedi@gmail.com
 
 Thanks for visiting my profile! Looking forward to collaborating on exciting projects 🚀
