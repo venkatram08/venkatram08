@@ -33,6 +33,6 @@ I'm Ram, a data enthusiast with a passion for analytics, business intelligence. 
 ---
 
 ### 📫 How to Reach Me:
-- **Email**: venkatramvelinedi@gmail.com
+- **Email**: venkatvelinedi@gmail.com
 
 Thanks for visiting my profile! Looking forward to collaborating on exciting projects 🚀
